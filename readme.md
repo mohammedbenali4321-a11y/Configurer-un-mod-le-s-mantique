@@ -42,4 +42,4 @@ En réalisant les exercices présentés dans ce projet, vous apprendrez à :
 
 * Kaggle: [Mohamed BEN ALI](https://www.kaggle.com/mbaitri)
 
-* Roadmap: [Mohamed BEN ALI](https://roadmap.sh/ubenalimohamed)
+* Roadmap: [Mohamed BEN ALI](roadmap.sh/u/benalimohamed)

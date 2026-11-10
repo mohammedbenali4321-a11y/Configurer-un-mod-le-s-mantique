@@ -38,8 +38,11 @@ En réalisant les exercices présentés dans ce projet, vous apprendrez à :
 
 *Projet géré par [@mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)*
 
-* LinkeDin: [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
+* LinkeDin: [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)
 
 * Kaggle: [Mohamed BEN ALI](https://www.kaggle.com/mbaitri)
 
-* Roadmap: [Mohamed BEN ALI](roadmap.sh/u/benalimohamed)
+* Roadmap: [Mohamed BEN ALI](https://roadmap.sh/roadmaps)
+
+## 📅 Completion Date
+* October(11) 09-10/2026 20:22
